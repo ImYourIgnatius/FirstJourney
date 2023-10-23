@@ -29,11 +29,11 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | mendapat materi kursus | saya bisa mendapatkan video interaktif kursus coding dari level basic | ⭐⭐⭐⭐⭐
 Pengguna | berpartisipasi dalam latihan coding | saya bisa mempraktikkan keterampilan pemrograman yang saya pelajari dari video kursus | ⭐⭐⭐⭐
-Pengguna | mendapat materi diluar coding | menambah wawasan dalam ilmu informatika atau bidang lainnya | ⭐⭐⭐⭐
+Pengguna | mendapat materi diluar coding | menambah wawasan dalam ilmu informatika atau bidang lainnya | ⭐⭐⭐
 Pengguna | mencari video kursus berdasarkan topik | saya bisa dengan cepat menemukan materi yang relevan dengan apa yang saya pelajari | ⭐⭐⭐⭐⭐
 Pengguna | mendapatkan rekomendasi kursus berdasarkan minat saya | saya dapat menemukan kursus yang sesuai dengan minat dan tujuan belajar saya | ⭐⭐⭐⭐
 Pengguna | mengikuti alur coding | saya dapat menguji dan meningkatkan keterampilan pemrograman saya melalui alur yang tersistematis dan teratur. | ⭐⭐⭐⭐
-Pengguna | mengajukan pertanyaan dalam forum komunitas | saya bisa meminta bantuan dan berbagi pengetahuan dengan sesama pengguna Code.in | ⭐⭐⭐⭐
+Pengguna | mengajukan pertanyaan dalam forum komunitas | saya bisa meminta bantuan dan berbagi pengetahuan dengan sesama pengguna Code.in | ⭐⭐⭐
 Pengguna | mengikuti kelas-kelas pemrograman secara live. | saya bisa menghadiri sesi live untuk interaksi langsung dengan instruktur. | ⭐⭐⭐⭐
 Pengguna | memilih bahasa pemrograman yang ingin saya pelajari | saya bisa fokus pada bahasa pemrograman tertentu yang saya minati | ⭐⭐⭐⭐
 
@@ -83,9 +83,15 @@ flowchart BT
 ## 5. Teknologi, Library, dan Framework
 
 Berdasarkan latar belakang dan deskripsi produk, berikut adalah deskripsi teknologi, library, dan framework yang mungkin digunakan dalam membangun aplikasi ecourse "Code.in":
-Bahasa Pemrograman / teknologi : Aplikasi ini menggunakan bahasa yaitu Dart. Dart juga merupakan bahasa yang digunakan dalam pengembangan perangkat lunak berbasis flutter.
-Framework : code.in dibangun dengan framework flutter. developer menggunakan bahasa ini agar bisa deployment bersamaan di aplikasi android dan juga iOs/iphone sehingga irit tenaga dan juga waktu pengerjaan. 
-Library : Untuk menyediakan video kursus dan tutorial interaktif, Code.in menggunakan library yang diambil dari youtube yaitu dengan API sehingga memudahkan developer untuk memasukan video course dan juga irit Database.
+
+## Bahasa Pemrograman / teknologi 
+Aplikasi ini menggunakan bahasa yaitu Dart. Dart juga merupakan bahasa yang digunakan dalam pengembangan perangkat lunak berbasis flutter.
+
+## Framework 
+code.in dibangun dengan framework flutter. developer menggunakan bahasa ini agar bisa deployment bersamaan di aplikasi android dan juga iOs/iphone sehingga irit tenaga dan juga waktu pengerjaan. 
+
+## Library 
+Untuk menyediakan video kursus dan tutorial interaktif, Code.in menggunakan library yang diambil dari youtube yaitu dengan API sehingga memudahkan developer untuk memasukan video course dan juga irit Database.
 
 ## 6. Desain User Experience dan User Interface
 
