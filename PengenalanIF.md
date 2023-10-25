@@ -1,5 +1,5 @@
 ## 1.1 Latar Belakang
-Dalam era digital ini, penguasaan pemrograman menjadi semakin penting, tetapi tidak semua mahasiswa baru Teknik Informatika Universitas Islam Negeri Sunan (UIN) Gunung Djati Bandung memiliki keterampilan coding. Ini merupakan hambatan bagi mereka yang ingin mengikuti perkembangan teknologi. Oleh karena itu, kami merasa ada kebutuhan untuk menciptakan sebuah solusi yang memungkinkan mahasiswa baru belajar coding dengan mudah dan efektif. Itulah mengapa kami menciptakan ecourse ini.
+Dalam era digital ini, penguasaan pemrograman menjadi semakin penting, tetapi tidak semua mahasiswa baru Teknik Informatika Universitas Islam Negeri Sunan (UIN) Gunung Djati Bandung memiliki keterampilan coding. Ini merupakan hambatan bagi mereka yang ingin mengikuti perkembangan teknologi. Oleh karena itu, kami merasa ada kebutuhan untuk menciptakan sebuah solusi yang memungkinkan mahasiswa baru belajar coding dengan mudah,efektif dan jarak jauh. Maka dari itulah mengapa kami menciptakan aplikasi Code.in.
 
 ## 1.2. Deksripsi Teknologi Informasi
 Aplikasi ecourse kami adalah solusi inovatif untuk mahasiswa baru Teknik Informatika Universitas Islam Negeri Sunan (UIN) Gunung Djati Bandung maupun semua kalangan yang ingin mempelajari coding tanpa kesulitan. Aplikasi ini menawarkan:
