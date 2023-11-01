@@ -96,7 +96,7 @@ Untuk menyediakan video kursus dan tutorial interaktif, Code.in menggunakan libr
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![Contoh](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/IMG-20231025-WA0047(1).jpg)
 
 ## 7. Demonstrasi Video
 
