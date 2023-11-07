@@ -128,13 +128,23 @@ flowchart BT
 Berdasarkan latar belakang dan deskripsi produk, berikut adalah deskripsi teknologi, library, dan framework yang mungkin digunakan dalam membangun aplikasi ecourse "Code.in":
 
 ## Bahasa Pemrograman / teknologi 
-Aplikasi ini menggunakan bahasa yaitu Dart. Dart juga merupakan bahasa yang digunakan dalam pengembangan perangkat lunak berbasis flutter.
+Aplikasi ini dibangun menggunakan bahasa pemrograman Dart. Dart adalah bahasa yang sangat serbaguna dan memiliki banyak penggunaan dalam pengembangan perangkat lunak, terutama dalam pembuatan aplikasi berbasis Flutter. Flutter adalah kerangka kerja (framework) yang dikembangkan oleh Google, yang memungkinkan pengembang untuk membuat aplikasi lintas platform dengan antarmuka pengguna yang menarik.
+Dart dipilih sebagai bahasa pemrograman utama untuk Flutter karena memiliki berbagai keunggulan. Beberapa fitur utama Dart yang membuatnya cocok untuk pengembangan aplikasi berbasis Flutter meliputi: 
+1. Kode Bersifat Mudah Di Kelola
+Dart memiliki sintaks yang bersih dan mudah dipahami, sehingga memudahkan pengembang dalam mengelola dan memelihara kode.
+2. Kinerja Mumpuni
+Dart memiliki kinerja tinggi, yang sangat penting untuk aplikasi mobile yang responsif dan lancar. 
+3. Komunitas Yang Berkembang
+Dart dan Flutter memiliki komunitas pengembang yang berkembang pesat, yang berarti Anda dapat dengan mudah menemukan dukungan dan sumber daya yang diperlukan.
+
 
 ## Framework 
-code.in dibangun dengan framework flutter. developer menggunakan bahasa ini agar bisa deployment bersamaan di aplikasi android dan juga iOs/iphone sehingga irit tenaga dan juga waktu pengerjaan. 
+Code.in adalah sebuah aplikasi yang dibangun dengan menggunakan framework Flutter. Framework Flutter adalah salah satu framework pengembangan aplikasi mobile yang sangat populer dan efisien. Pengembang memilih Flutter karena memiliki banyak keunggulan, terutama ketika datang ke pengembangan aplikasi lintas platform, seperti Android dan iOS/iPhone. Dan juga salah satu keuntungan utama Flutter adalah kemampuannya untuk menghasilkan aplikasi yang berjalan di berbagai platform, termasuk Android dan iOS. Ini berarti pengembang dapat menghemat waktu dan usaha yang seharusnya digunakan untuk mengembangkan aplikasi terpisah untuk setiap platform. Deployment bersamaan ke Android dan iOS mengurangi kerumitan dan biaya pengembangan.
 
 ## Library 
-Untuk menyediakan video kursus dan tutorial interaktif, Code.in menggunakan library yang diambil dari youtube yaitu dengan API sehingga memudahkan developer untuk memasukan video course dan juga irit Database.
+Code.in menghadirkan berbagai video kursus dan tutorial interaktif dengan menggunakan library yang diambil dari YouTube melalui API. Pemilihan penggunaan YouTube API sebagai sumber utama video kursus memiliki beberapa keuntungan yang signifikan. 
+Dengan menggunakan YouTube API, Code.in dapat memberikan video kursus yang selalu terkini dan terbaru kepada pengguna. YouTube adalah platform yang penuh dengan konten edukatif, dan dengan API ini, Code.in dapat secara otomatis menyinkronkan video terbaru tanpa perlu mengunggah ulang atau menyimpan video secara lokal. Ini memastikan bahwa pengguna selalu mendapatkan akses ke materi yang up-to-date. Menggunakan YouTube API mengurangi beban pada database Code.in. Pengembang tidak perlu menyimpan video secara lokal atau mengelola server khusus untuk menyimpan video. Ini menghemat sumber daya server dan infrastruktur, sehingga Code.in dapat berfokus pada memberikan pengalaman pengguna yang lebih baik. 
+Dengan memanfaatkan YouTube API, Code.in dapat menghadirkan pengalaman belajar yang kaya, dinamis, dan up-to-date kepada pengguna tanpa perlu mengatasi masalah pengelolaan video secara lokal. Ini adalah pilihan yang cerdas untuk mengoptimalkan sumber daya dan meningkatkan kualitas layanan yang diberikan kepada pengguna.
 
 ## 6. Desain User Experience dan User Interface
 
