@@ -74,14 +74,6 @@ Admin | Bisa memberikan tautan ke forum atau komunitas yang terkait dengan setia
 
 ```mermaid
 erDiagram
-  PENGGUNA {
-    int id_pengguna
-    string username
-    string email
-    string password
-    string nama_lengkap
-    bool admin_false
-  }
 ADMIN {
     int id_pengguna
     string username
@@ -91,14 +83,36 @@ ADMIN {
     bool admin_true
   }
 
-  PENGGUNA ||--o{ COURSE : mengakses
-  ADMIN ||--o{ COURSE : menambah
-  COURSE {
+    ADMIN }|..|{ FITUR : "memiliki akses"
+    ADMIN ||--o{ COURSE : mengakses
+    ADMIN ||--o{ PENGGUNA : "dapat menjadi"
+    FITUR ||--o{ COURSE : mendeployment
+    PENGGUNA ||--|{ COURSE : mengakses
+
+PENGGUNA {
+    int id_pengguna
+    string username
+    string email
+    string password
+    string nama_lengkap
+    bool admin_false
+}
+
+COURSE {
     int id_course
     string nama_course
     string nama_author 
     int rating
  } 
+
+FITUR {
+    string add_course
+    string add_category
+    string add_descriptive
+    string add_new-user
+}
+
+
 ```
 
 ## 4. Arsitektur Sistem
