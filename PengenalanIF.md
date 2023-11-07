@@ -148,11 +148,11 @@ Dengan memanfaatkan YouTube API, Code.in dapat menghadirkan pengalaman belajar y
 
 ## 6. Desain User Experience dan User Interface
  
-![Contoh](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/HomeScreen.jpeg)
+![Home](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/HomeScreen.jpeg)
 
 Tampilan Homescreen 
 
-![Contoh](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/KategoryCourse.jpeg)
+![Kategori](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/KategoriCourse.jpeg)
 
 Tampilan Kategori
 
