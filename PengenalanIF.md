@@ -18,7 +18,7 @@ Misi: Misi Code.in adalah membantu mahasiswa semester 1 menjadi mahir dalam codi
 
 Dengan Code.in, kami berkomitmen untuk menghilangkan hambatan akses ke dunia coding bagi mahasiswa semester 1 dan membantu mereka mencapai potensi penuh mereka dalam teknologi.
 
-Logonya
+Branding Luar
 
 Nama Produk: Code.in
 
@@ -29,15 +29,45 @@ Logo: Logo Code.in mencerminkan kombinasi yang baik antara buku (pengetahuan) da
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-Pengguna | mendapat materi kursus | saya bisa mendapatkan video interaktif kursus coding dari level basic | ⭐⭐⭐⭐⭐
+Pengguna | Mendapat materi kursus | saya bisa mendapatkan video interaktif kursus coding dari level basic | ⭐⭐⭐⭐⭐
 Pengguna | berpartisipasi dalam latihan coding | saya bisa mempraktikkan keterampilan pemrograman yang saya pelajari dari video kursus | ⭐⭐⭐⭐
-Pengguna | mendapat materi diluar coding | menambah wawasan dalam ilmu informatika atau bidang lainnya | ⭐⭐⭐
-Pengguna | mencari video kursus berdasarkan topik | saya bisa dengan cepat menemukan materi yang relevan dengan apa yang saya pelajari | ⭐⭐⭐⭐⭐
-Pengguna | mendapatkan rekomendasi kursus berdasarkan minat saya | saya dapat menemukan kursus yang sesuai dengan minat dan tujuan belajar saya | ⭐⭐⭐⭐
-Pengguna | mengikuti alur coding | saya dapat menguji dan meningkatkan keterampilan pemrograman saya melalui alur yang tersistematis dan teratur. | ⭐⭐⭐⭐
-Pengguna | mengajukan pertanyaan dalam forum komunitas | saya bisa meminta bantuan dan berbagi pengetahuan dengan sesama pengguna Code.in | ⭐⭐⭐
-Pengguna | mengikuti kelas-kelas pemrograman secara live. | saya bisa menghadiri sesi live untuk interaksi langsung dengan instruktur. | ⭐⭐⭐⭐
-Pengguna | memilih bahasa pemrograman yang ingin saya pelajari | saya bisa fokus pada bahasa pemrograman tertentu yang saya minati | ⭐⭐⭐⭐
+Pengguna | Mendapat materi diluar coding | menambah wawasan dalam ilmu informatika atau bidang lainnya | ⭐⭐⭐
+Pengguna | Mencari video kursus berdasarkan topik | saya bisa dengan cepat menemukan materi yang relevan dengan apa yang saya pelajari | ⭐⭐⭐⭐⭐
+Pengguna | Mendapatkan rekomendasi kursus berdasarkan minat saya | saya dapat menemukan kursus yang sesuai dengan minat dan tujuan belajar saya | ⭐⭐⭐⭐
+Pengguna | Mengikuti alur coding | saya dapat menguji dan meningkatkan keterampilan pemrograman saya melalui alur yang tersistematis dan teratur. | ⭐⭐⭐⭐
+Pengguna | Mengajukan pertanyaan dalam forum komunitas | saya bisa meminta bantuan dan berbagi pengetahuan dengan sesama pengguna Code.in | ⭐⭐⭐
+Pengguna | Mengikuti kelas-kelas pemrograman secara live. | saya bisa menghadiri sesi live untuk interaksi langsung dengan instruktur. | ⭐⭐⭐⭐
+Pengguna | Memilih bahasa pemrograman yang ingin saya pelajari | saya bisa fokus pada bahasa pemrograman tertentu yang saya minati | ⭐⭐⭐⭐
+Pengguna | Mendapatkan notifikasi | mendapatkan notifikasi ketika video kursus terbit | ⭐⭐⭐
+Pengguna | Menambahkan wstlist video kursus | bisa memasukan video ke wistlist untuk memudahkan pengguna | ⭐⭐
+Pengguna | Faforitkan video kursus | bisa memudahkan video kursus yang di faforitkan oleh user | ⭐⭐
+Pengguna | Mengganti username | Pengguna bisa mencustom username sesuai dengan keinginan | ⭐
+Pengguna | Mengganti foto profil | pengguna bisa mengganti foto profil sesuai keinginan pengguna | ⭐
+Pengguna | Melihat rating video Kursus | pengguna bisa melihat video kursus yang lebih baik sesuai dengan rating yang ada pada video tersebut. | ⭐⭐
+Pengguna | Membaca deskripsi video kursus | Pengguna bisa melihat secara ringkas tentang isi dari video yang ada pada video kursus | ⭐⭐
+Pengguna | Melihat durasi playlist | user bisa mengetahui durasi playlist yang akan mereka pilih | ⭐⭐
+Pengguna | Melihat author kursus | user bisa mengetahui siapa author yang membuat video kursus tersebut  | ⭐
+Pengguna | Memilih isi playlist video | pengguna bisa melihat semua video yang ada pada playlist tersebut | ⭐⭐⭐
+Pengguna | Melihat kategori kursus | user mudah memilah video kursus yang sesuai dengan kategori video tersebut | ⭐⭐⭐
+Pengguna | Mencari judul video kursus | memudahkan pengguna untuk mencari judul dari video yang ingin pengguna cari | ⭐⭐
+Pengguna | Mencari judul menggunakan voice note | Sehingga bisa mencari judul menggunakan suara dari user | ⭐⭐
+Pengguna | Berinteraksi dengan admin | user bisa berinteraksi langsung dengan admin tentang semua yang terkait dengan aplikasi | ⭐⭐⭐
+Pengguna | Dapat menilai atau memberikan umpan balik pada kategori kursus | sehingga pengguna lain dapat melihat nilai dari rating pengguna-pengguna sebelumnya | ⭐⭐⭐
+Admin | Menambahkan video kursus | User bisa mendapatkan video kursus dan admin bisa mengupload video yang dia inginkan untuk kebutuhan user | ⭐⭐⭐⭐
+Admin | menambahkan kategori kursus | admin bisa menambahkan kategori guna membantu user untuk memudahkan mencari video kursus | ⭐⭐⭐
+Admin | dapat mengedit kategori kursus yang sudah ada | Sehingga saya dapat memperbarui informasi kategori yang relevan. | ⭐⭐
+Admin | Memiliki opsi untuk menghapus kategori kursus | Sehingga admin dapat mengelola daftar kategori yang ada | ⭐⭐
+Admin | Mendokumentasikan setiap kategori kursus dengan deskripsi singkat | Pengguna dapat memahami isi kategori tersebut | ⭐⭐
+Admin | Melihat statistik penggunaan setiap kategori kursus | sehingga Admin dapat mengevaluasi popularitasnya. | ⭐
+Admin | Mengelompokkan beberapa kategori kursus menjadi subkategori | struktur kategori akan terorganisir | ⭐⭐
+Admin | mengaktifkan atau menonaktifkan kategori kursus | sehingga saya dapat mengendalikan visibilitasnya | ⭐
+Admin | memberikan tag atau kata kunci pada setiap kategori kursus | pengguna dapat menemukan kategori berdasarkan kata kunci tertentu. | ⭐
+Admin | memiliki fitur pencarian dalam daftar kategori kursus | dapat dengan cepat menemukan kategori tertentu | ⭐⭐
+Admin | menetapkan tingkat kesulitan atau level untuk setiap kategori kursus | pengguna dapat mengetahui dan memilih sesuai dengan kemampuan mereka | ⭐⭐
+Admin | mengatur waktu publikasi untuk setiap video kursus | video kursus dapat muncul atau disembunyikan pada waktu yang ditentukan. | ⭐
+Admin | memberikan deskripsi terperinci untuk setiap kategori kursus | pengguna dapat memahami kontennya sebelum memilih. | ⭐⭐
+Admin | Bisa memberikan tautan ke forum atau komunitas yang terkait dengan setiap video kursus | Pengguna dapat berdiskusi dan berbagi pengalaman | ⭐⭐⭐
+
 
 
 ## 3. Struktur Data
