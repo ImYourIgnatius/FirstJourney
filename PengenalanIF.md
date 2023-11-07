@@ -10,19 +10,16 @@ Aplikasi ecourse kami adalah solusi inovatif untuk mahasiswa baru Teknik Informa
 
 ## 1.3. Branding
 Nama Produk: Code.in
-Logo: Logo Code.in mencerminkan kombinasi yang baik antara buku (pengetahuan) dan kode (coding). Ikonnya adalah pena yang berubah menjadi kode komputer. Ini menggambarkan transformasi mahasiswa menjadi ahli dalam coding.
+Logo: Logo Code.in mencerminkan kombinasi yang baik antara teknologi (laptop) dan jalan (portal). Ikonnya adalah komputer yang memiliki lampu di dalam layar laptop. yang dimana ini adalah sebuah logo yang mencerminkan kita memulai masuk ke dunia perkodingan melalui portal yang akan di suguhkan dalam monitor laptop sebuah lampu dengan ciri khas code yang mengekspersikan aplikasi ini adalah titik terang bagi mereka yang mau belajar coding mulai dari awal.
 
 Slogan: "Menguasai Coding, Mulai dari Nol!"
-Warna: Kombinasi biru dan hijau yang memberikan kesan tenang dan inovatif.
+Warna: Kombinasi biru dan hijau turquoise dengan latar hitam memberikan kesan elegant yang menjadi ciri bahwa aplikasi ini menjadi lebih berkesan
 Misi: Misi Code.in adalah membantu mahasiswa semester 1 menjadi mahir dalam coding, membuka peluang baru dalam teknologi, dan menciptakan komunitas yang kuat.
 
 Dengan Code.in, kami berkomitmen untuk menghilangkan hambatan akses ke dunia coding bagi mahasiswa semester 1 dan membantu mereka mencapai potensi penuh mereka dalam teknologi.
 
-Branding Luar
-
-Nama Produk: Code.in
-
-Logo: Logo Code.in mencerminkan kombinasi yang baik antara buku (pengetahuan) dan kode (coding). Ikonnya adalah pena yang berubah menjadi kode komputer. Ini menggambarkan transformasi mahasiswa menjadi ahli dalam coding.
+Logo Code.In
+![Logo]([https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/IMG-20231025-WA0047(1).jpg](https://github.com/ImYourIgnatius/FirstJourney/blob/main/5585333.png?raw=true))
 
 
 ## 2. User Story
@@ -116,15 +113,13 @@ FITUR {
 ```
 
 ## 4. Arsitektur Sistem
-
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
-
 ```mermaid
 flowchart BT 
   subgraph cloud
-    B[Database: SQLite] 
-  end
-  A[Aplikasi Android & iPhone: Dart - Flutter] <--> B 
+    A[Database: SQLite] <--> C[Aplikasi Backend: Dart] 
+    C <--> D[Aplikasi Android & iPhone: Flutter & Dart] 
+  end 
+  
 ```
 ## 5. Teknologi, Library, dan Framework
 
