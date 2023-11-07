@@ -130,14 +130,11 @@ Berdasarkan latar belakang dan deskripsi produk, berikut adalah deskripsi teknol
 ## Bahasa Pemrograman / teknologi 
 Aplikasi ini dibangun menggunakan bahasa pemrograman Dart. Dart adalah bahasa yang sangat serbaguna dan memiliki banyak penggunaan dalam pengembangan perangkat lunak, terutama dalam pembuatan aplikasi berbasis Flutter. Flutter adalah kerangka kerja (framework) yang dikembangkan oleh Google, yang memungkinkan pengembang untuk membuat aplikasi lintas platform dengan antarmuka pengguna yang menarik.
 Dart dipilih sebagai bahasa pemrograman utama untuk Flutter karena memiliki berbagai keunggulan. Beberapa fitur utama Dart yang membuatnya cocok untuk pengembangan aplikasi berbasis Flutter meliputi: 
-1. Kode Bersifat Mudah Di Kelola
-
+1. Kode Bersifat Mudah Di Kelola \n
 Dart memiliki sintaks yang bersih dan mudah dipahami, sehingga memudahkan pengembang dalam mengelola dan memelihara kode.
-2. Kinerja Yang Mumpuni
-
+2. Kinerja Yang Mumpuni \n
 Dart memiliki kinerja tinggi, yang sangat penting untuk aplikasi mobile yang responsif dan lancar. 
-3. Komunitas Yang Berkembang
-
+3. Komunitas Yang Berkembang \n
 Dart dan Flutter memiliki komunitas pengembang yang berkembang pesat, yang berarti Anda dapat dengan mudah menemukan dukungan dan sumber daya yang diperlukan.
 
 
