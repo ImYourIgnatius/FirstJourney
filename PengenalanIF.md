@@ -18,8 +18,10 @@ Misi: Misi Code.in adalah membantu mahasiswa semester 1 menjadi mahir dalam codi
 
 Dengan Code.in, kami berkomitmen untuk menghilangkan hambatan akses ke dunia coding bagi mahasiswa semester 1 dan membantu mereka mencapai potensi penuh mereka dalam teknologi.
 
+![Logo](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/5585333.png)
+
 Logo Code.In
-![Contoh](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/5585333.png)
+
 
 
 ## 2. User Story
