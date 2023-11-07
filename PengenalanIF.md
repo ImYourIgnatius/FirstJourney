@@ -18,8 +18,10 @@ Misi: Misi Code.in adalah membantu mahasiswa semester 1 menjadi mahir dalam codi
 
 Dengan Code.in, kami berkomitmen untuk menghilangkan hambatan akses ke dunia coding bagi mahasiswa semester 1 dan membantu mereka mencapai potensi penuh mereka dalam teknologi.
 
-Logonya :
+Logonya
+
 Nama Produk: Code.in
+
 Logo: Logo Code.in mencerminkan kombinasi yang baik antara buku (pengetahuan) dan kode (coding). Ikonnya adalah pena yang berubah menjadi kode komputer. Ini menggambarkan transformasi mahasiswa menjadi ahli dalam coding.
 
 
