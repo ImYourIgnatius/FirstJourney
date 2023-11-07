@@ -147,26 +147,67 @@ Dengan menggunakan YouTube API, Code.in dapat memberikan video kursus yang selal
 Dengan memanfaatkan YouTube API, Code.in dapat menghadirkan pengalaman belajar yang kaya, dinamis, dan up-to-date kepada pengguna tanpa perlu mengatasi masalah pengelolaan video secara lokal. Ini adalah pilihan yang cerdas untuk mengoptimalkan sumber daya dan meningkatkan kualitas layanan yang diberikan kepada pengguna.
 
 ## 6. Desain User Experience dan User Interface
-
-Bisa load image 
+ 
 ![Contoh](https://raw.githubusercontent.com/ImYourIgnatius/FirstJourney/main/IMG-20231025-WA0047(1).jpg)
+
+Tampilan Homescreen 
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+menyusul 
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+"Selamat datang di Code.in, teman-teman! Kami ingin menjelaskan kepada Anda bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasi kami yang inovatif.
+
+Mesin komputasi adalah fondasi dari semua perangkat teknologi informasi. Mereka adalah otak dari perangkat keras komputer kita. Dalam dunia Code.in, mesin komputasi adalah apa yang memungkinkan kami menyediakan video kursus, tutorial interaktif, dan latihan coding kepada Anda. Mesin ini bekerja tanpa lelah untuk menghadirkan pengalaman belajar yang lancar dan efektif.
+
+di sisi lain,Sistem operasi adalah seperti pengatur lalu lintas di jalan raya. Ini mengelola sumber daya komputer, memastikan aplikasi kami berjalan dengan baik, dan memberi Anda akses ke semua fitur Code.in. Tanpa sistem operasi yang andal, Code.in tidak dapat memberikan pengalaman belajar yang konsisten kepada Anda.
+
+Jadi, mesin komputasi dan sistem operasi kami adalah fondasi dari Code.in. Mereka memungkinkan Anda mengakses video kursus, tutorial interaktif, dan latihan coding, serta berkolaborasi dengan komunitas belajar kami. Dengan bantuan teknologi ini, Anda dapat mulai dari nol dan menguasai coding. Itulah mengapa kami di Code.in berkomitmen untuk memberikan akses mudah ke dunia coding kepada mahasiswa semester 1 dan membantu Anda mencapai potensi penuh dalam teknologi. Terima kasih telah bergabung dengan kami dalam perjalanan belajar Anda!
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Algoritma: Algoritma adalah panduan langkah demi langkah untuk menyelesaikan tugas atau masalah tertentu. Di dalam Code.in, kami memastikan algoritma-algoritma yang kami sertakan dalam pembelajaran dirancang untuk memecahkan permasalahan dengan efisien. Ini adalah fondasi dari pemrograman yang efektif.
+
+Struktur Data: Struktur data mengatur dan menyimpan data dalam cara tertentu. Dalam konteks aplikasi kami, struktur data membantu kami mengorganisasi konten pembelajaran, materi latihan, dan pencapaian pengguna. Ini memungkinkan Anda untuk mengeksplorasi materi pelajaran dengan mudah dan memantau kemajuan Anda.
+
+Bahasa Pemrograman: Bahasa pemrograman adalah alat yang digunakan untuk menginstruksikan komputer. Di Code.in, kami menyediakan berbagai bahasa pemrograman yang relevan untuk memungkinkan Anda memahami konsep pemrograman dengan cara yang paling sesuai. Dengan pemahaman bahasa pemrograman, Anda dapat merancang dan membangun aplikasi yang inovatif.
+
+Jadi, di Code.in, kami memadukan algoritma, struktur data, dan bahasa pemrograman dalam pembelajaran interaktif dan video kursus. Ini adalah langkah pertama Anda untuk memahami dasar-dasar pemrograman dan mempersiapkan diri untuk meraih peluang baru di dunia teknologi informasi.
+
+Saat Anda menggunakan Code.in, Anda akan merasakan transformasi dari pemula menjadi ahli dalam coding. Bergabunglah dengan komunitas kami dan mulailah perjalanan Anda menuju penguasaan coding, mulai dari nol!"
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+"Software Development Life Cycle", atau SDLC, adalah pondasi dalam pengembangan produk teknologi informasi kami, Code.in. SDLC adalah serangkaian tahap dan proses yang kami jalankan untuk merancang, mengembangkan, dan menguji aplikasi kami dengan cermat. SDLC membantu kami memastikan bahwa setiap fitur dan fungsionalitas di dalam Code.in telah melalui tahap-tahap berikut:
+
+1. Perencanaan (Planning): Di tahap ini, kami merumuskan rencana proyek dengan mengidentifikasi tujuan, sumber daya, dan jadwal. Hal ini memastikan bahwa kami memiliki panduan yang jelas dalam mengembangkan aplikasi.
+
+2. Analisis (Analysis): Kami menganalisis kebutuhan pengguna kami. Dalam konteks Code.in, ini berarti memahami apa yang mahasiswa Teknik Informatika kami butuhkan untuk belajar coding dengan sukses.
+
+3. Desain (Design): Kami merancang arsitektur aplikasi, termasuk tampilan pengguna dan fungsi-fungsi utama. Kami ingin pastikan Code.in memiliki tampilan yang menarik dan mudah digunakan.
+
+4. Pengembangan (Development): Di tahap ini, tim kami mulai mengembangkan perangkat lunak sesuai desain yang telah dibuat. Ini adalah saat aplikasi mulai menjadi kenyataan.
+
+5. Pengujian (Testing): Kami melakukan pengujian menyeluruh untuk memastikan bahwa Code.in berjalan dengan baik, bebas dari kesalahan, dan memberikan pengalaman pengguna yang lancar.
+
+6. Implementasi (Deployment): Aplikasi kami siap untuk digunakan oleh pengguna. Kami merilis Code.in ke masyarakat mahasiswa Teknik Informatika UIN Gunung Djati Bandung.
+
+7. Pemeliharaan (Maintenance): Setelah diluncurkan, kami terus memonitor dan memperbarui Code.in sesuai dengan umpan balik pengguna dan perubahan kebutuhan.
+
+SDLC memastikan bahwa Code.in berkualitas tinggi, andal, dan memenuhi tujuan misi kami untuk membantu mahasiswa semester 1 menguasai coding. Dengan pendekatan ini, kami dapat memberikan produk terbaik kepada pengguna kami dan memastikan bahwa Code.in membawa manfaat nyata dalam pendidikan teknologi informasi."
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Hallo teman-teman perkenalkan nama aku Hilman Maulana, saya disini sebagai beginner developer yang sudah membuat produk yang tujuannya memudahkan teman teman yang mau belajar coding dari 0. Yaituuu, code.in. Code.in adalah platform pembelajaran coding yang revolusioner. Bagaimana semua materi ini tersimpan dan diatur dengan baik, memungkinkan pengguna mengaksesnya dengan mudah? Jawabannya ada dalam yang kita sebut dengan 'basis data' atau sistem basis data.
+
+Database adalah otak di balik Code.in. Ini adalah tempat di mana semua informasi penting disimpan dengan aman. Setiap video kursus, tutorial, latihan coding, dan bahkan interaksi komunitas pengguna, semuanya diorganisir dan diakses melalui database ini.
+
+Ketika Anda login, database menyimpan informasi Anda, memungkinkan Anda untuk melanjutkan belajar dari mana Anda tinggalkan. Saat Anda menyelesaikan latihan coding, basis data mencatat kemajuan Anda. Ini adalah 'memori' Code.in, yang memastikan Anda memiliki pengalaman pembelajaran yang mulus.
+
+Basis data juga memungkinkan kita menyediakan rekomendasi yang sesuai dengan kemajuan belajar Anda. Itu seperti pemandu pribadi yang membantu Anda menjelajah melalui dunia coding.
+
+Dan ingat, semua ini tidak hanya tentang penyimpanan, tapi juga keamanan. Data pribadi Anda terlindungi dengan baik. Itu adalah salah satu hal utama yang database lakukan - menjaga semua informasi aman.
+
+Jadi, ketika Anda menggunakan Code.in, ingat bahwa database atau sistem basis data ini adalah elemen kunci yang membuat pengalaman belajar Anda menjadi nyata. Dengan bantuan database ini, Anda bisa 'menguasai coding, mulai dari nol' dengan percaya diri dan efektif." 
